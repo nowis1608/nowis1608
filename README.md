@@ -1,6 +1,6 @@
-### Hi there welcome from my profyle 👋
+### Olá, bem vindo ao meu perfil👋
 
-Look for a litlle information in down:
+Procure por um pouco mais de informação aqui:
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
